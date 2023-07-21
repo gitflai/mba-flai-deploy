@@ -5,7 +5,7 @@ O State of Data Brazil 2021, uma ampla pesquisa sobre o mercado de trabalho em d
 
 Veja agora o desenvolvimento de dashboards interativos com o objetivo de proporcionar uma análise rica e intuitiva dos dados. Essas ferramentas nos permitem traçar um perfil abrangente do profissional de dados no Brasil. Não se trata apenas de apresentar números e gráficos, mas de permitir que os usuários explorem os dados, compreendam tendências e extraiam insights valiosos. Isso tudo contribui para uma compreensão mais profunda e uma visualização mais clara do panorama atual do mercado de trabalho na área de dados no país.
 
-Veja a apresentação desse projeto em vídeo, no link abaixo:
+**Veja a apresentação desse projeto em vídeo, no link abaixo:**
 
 https://youtu.be/vBvrtV3ufHA
 
