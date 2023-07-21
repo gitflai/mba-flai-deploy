@@ -8,3 +8,5 @@ Veja agora o desenvolvimento de dashboards interativos com o objetivo de proporc
 Veja a apresentação desse projeto em vídeo, no link abaixo:
 
 https://youtu.be/vBvrtV3ufHA
+
+[![](https://img.youtube.com/vi/vBvrtV3ufHA/0.jpg)](https://www.youtube.com/watch?v=vBvrtV3ufHA)
